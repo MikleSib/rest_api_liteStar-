@@ -1,7 +1,7 @@
 1. Клонировать репозиторий:
 ```bash
-git clone [ваша_ссылка]
-cd [название_проекта]
+git clone https://github.com/MikleSib/rest_api_liteStar-.git
+cd /rest_api_liteStar-
 ```
 
 2. Запустить
